@@ -80,8 +80,8 @@ Fortunately, I imagine the investment strategy would not need new technology oth
 
 ## References
 
-https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
--https://en.wikipedia.org/wiki/Fidelity_Investments
+* https://www.investopedia.com/terms/r/roboadvisor-roboadviser.asp
+* https://en.wikipedia.org/wiki/Fidelity_Investments
 -https://www.nerdwallet.com/reviews/investing/advisors/fidelity-go
 -https://www.fidelity.com/digital-investing-and-advice/overview
 -https://www.wealthmanagement.com/technology/backend-benchmarking-fidelity-go-remains-top-overall-robo-advisor
