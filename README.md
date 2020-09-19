@@ -22,7 +22,7 @@ Fidelity introduced it's hybrid robo advisor in an effort to help investors who 
 
 **Who is the company's intended customer?  Is there any information about the market size of this set of customers?**
 
-As stated above, Fidelity's intended customer are tech savvy investors. Typically younger generations i.e. Millennials a generation over 75 Million strong in the workforce who are currently building and cumulating their wealth.
+As stated above, Fidelity's intended customer are tech savvy investors. Typically younger generations i.e. Millennials a generation over 75 Million strong in the workforce who are currently building and accumulating their wealth.
 
 **Which technologies are they currently using, and how are they implementing them?**
 
@@ -50,7 +50,7 @@ Betterment, Charles Schwab, Vanguard, Wealthfront
 
 **What has been the business impact of this company so far?**
 
-Fidelity's Robo Advisor has led to more AUM and referrals since its inception. The creation of their robo-advisor is to continue to stay competitive in wealth management industry.
+Fidelity's Robo Advisor has led to more AUM and referrals since its inception. The creation of their robo-advisor is to continue to stay competitive in the wealth management industry.
 
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
 
@@ -66,11 +66,11 @@ Fidelity's robo advisor typically is ranked in the top 3 of all it's competitors
 
 **If you were to advise the company, what products or services would you suggest they offer?**
 
-I would advise Fidelity to offer up flexible within their investment strategy - the option to limit certain asset classes, offer an ESG strategy, an incoming producing strategy, etc. If possible, having Fidelity change its cost structure to a subscription based model similar to Schwab or Merrill.
+I would advise Fidelity to offer up flexiblility within their investment strategy - the option to limit certain asset classes, offer an ESG strategy, an income producing strategy, etc. If possible, having Fidelity change its cost structure to a subscription based model similar to Schwab or Merrill.
 
 **Why do you think that offering this product or service would benefit the company?**
 
-I think consumers would appreciate the customization and option to change their investment strategy. Research shows younger investors want an ESG strategy or socially conscience option with investing. I think Fidelity would be adapting to changing demographics. I believe changing the cost structure would also adapt to younger generations and their competitors who are targeting a generation where subscription pricing is a common theme across many industries and products.
+I think consumers would appreciate the customization and option to change their investment strategy. Research shows younger investors want an ESG strategy or socially conscience option while investing. I think Fidelity would be adapting to changing demographics. I believe changing the cost structure would also adapt to younger generations and their competitors who are targeting a generation where subscription pricing is a common theme across many industries and products.
 
 **What technologies would this additional product or service utilize?**
 
