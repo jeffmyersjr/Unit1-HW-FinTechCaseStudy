@@ -12,6 +12,8 @@ In an effort to adapt with younger, tech savvy investors Fidelity first introduc
 * Fees: 0.50% advisory fee
 * Minimum: $25,000
 
+---
+
 ## Business Activities
 
 **What specific financial problem is the company or project trying to solve?**
@@ -25,6 +27,8 @@ As stated above, Fidelity's intended customer are tech savvy investors. Typicall
 **Which technologies are they currently using, and how are they implementing them?**
 
 Fidelity uses quantitative analysis and propriety algorithms to determine the long-term asset allocations for  their clients. Regarding trade execution Fidelity utilizes it's own order routing software or broker-dealer sponsored algorithms.  Fidelity acquired eMoney in 2015 and utilizes this program for financial planning.
+
+---
 
 ## Landscape
 
@@ -40,6 +44,8 @@ Going beyond 10 years, robo-advisors were first introduced in 2008 by Betterment
 
 Betterment, Charles Schwab, Vanguard, Wealthfront
 
+---
+
 ## Results
 
 **What has been the business impact of this company so far?**
@@ -53,6 +59,8 @@ The core metrics in this domain are: AUM, overall client satisfaction, fees, min
 **How is your company performing relative to competitors in the same domain?**
 
 Fidelity's robo advisor typically is ranked in the top 3 of all it's competitors in various opinion on articles and consumer reviews albeit ranks low in AUM.
+
+---
 
 ## Recommendations
 
@@ -68,9 +76,11 @@ I think consumers would appreciate the customization and option to change their 
 
 Fortunately, I imagine the investment strategy would not need new technology other than adjusting their proprietary algorithm to include an ESG strategy. Changing the pricing strategy may require an update to the payment software, may need to acquire or utilize a SaaS program.
 
+---
 
+## References
 
-
+https://www.investopedia.com/, https://www.wikipedia.org/, https://www.fidelity.com/, wealthmanagement.com
 
 
 
