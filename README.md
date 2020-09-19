@@ -80,7 +80,7 @@ Fortunately, I imagine the investment strategy would not need new technology oth
 
 ## References
 
-https://www.investopedia.com/, https://www.wikipedia.org/, https://www.fidelity.com/, wealthmanagement.com
+https://www.investopedia.com/, https://www.wikipedia.org/, https://www.fidelity.com/, https://www.wealthmanagement.com/
 
 
 
