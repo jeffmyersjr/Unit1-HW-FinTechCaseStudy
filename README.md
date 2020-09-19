@@ -56,4 +56,23 @@ Fidelity's robo advisor typically is ranked in the top 3 of all it's competitors
 
 ## Recommendations
 
+**If you were to advise the company, what products or services would you suggest they offer?**
+
+I would advise Fidelity to offer up flexible within their investment strategy - the option to limit certain asset classes, offer an ESG strategy, an incoming producing strategy, etc. If possible, having Fidelity change it's cost structure to a substription based model similar to Schwab or Merrill.
+
+**Why do you think that offering this product or service would benefit the company?**
+
+I think consumers would appreciate the customization and option to change their investment strategy. Research shows younger investors want an ESG strategy or socially conscience option with investing. I think Fidelity would be adapting to changing demographics. I believe changing the cost structure would also adapt to younger generations and their competitors who are targeting a generation where subscription pricing is a common theme accross many industries and products.
+
+**What technologies would this additional product or service utilize?**
+
+Fortunately, I imagine the investment strategy would not need new technology other than adjusting their proprietary algorithm to include an ESG strategy. Changing the pricing strategy may require an update to the payment software, may need to acquire or utilize a SaaS program.
+
+
+
+
+
+
+
+
 
