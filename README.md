@@ -1,4 +1,4 @@
-![image1](https://investorjunkie.com/wp-content/uploads/2016/08/fidelity-investments.png)
+![image1](https://media-exp1.licdn.com/dms/image/C4E1BAQEdmTbt0z__sw/company-background_10000/0?e=2159024400&v=beta&t=vGjxKU-4n8bafpLGpof51vvdKetz5uCNPix5pePntvs)
 ---
 # Fidelity® Personalized Planning & Advice
 
